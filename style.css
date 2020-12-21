@@ -40,6 +40,10 @@ body{
 #work{
     background-color: #555555;
     color: #000000;
-    align-items: center;
+}
+
+#footer{
+    text-align: center;
+    font-size: 15px;
 }
 
